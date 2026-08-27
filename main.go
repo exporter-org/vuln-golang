@@ -11,6 +11,6 @@ import (
 )
 
 func main() {
-	// new comment
+	// new comment.
 	fmt.Println("Hello world")
 }
