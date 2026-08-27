@@ -2,7 +2,10 @@ module github.com/endorlabs/vulnerable-golang
 
 go 1.25.0
 
-require github.com/owncast/owncast v0.2.5
+require (
+	github.com/dgrijalva/jwt-go v3.2.0+incompatible
+	github.com/owncast/owncast v0.2.5
+)
 
 require (
 	github.com/apapsch/go-jsonmerge/v2 v2.0.0 // indirect
