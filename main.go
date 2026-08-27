@@ -9,5 +9,6 @@ import (
 )
 
 func main() {
+	// new comment
 	fmt.Println("Hello world")
 }
